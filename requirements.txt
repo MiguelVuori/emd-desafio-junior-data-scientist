@@ -1,6 +1,6 @@
 streamlit
 basedosdados
 altair
-plotpy
+plotly
 geopandas
 pandas
