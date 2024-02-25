@@ -6,7 +6,7 @@ O projeto está dividido da seguinte forma:
 - No arquivo "requirements.txt" contém as bibliotecas necessárias para a visualização do dashboard.
 - O arquivo "analise_sql.sql" contém todas as consultas realizadas no BigQuery.
 - O arquivo "analise_python.ipynb" contém todas as consultas utilizando a biblioteca pandas do python.
-- "streamlit_app.py" é o aplicativo em python utlizado para a visualização dos dados (Dashoard).
+- "streamlit_app.py" é o aplicativo em python utlizado para a visualização dos dados (Dashboard).
 
 ## Visualização
 
