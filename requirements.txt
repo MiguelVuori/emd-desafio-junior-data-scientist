@@ -1,0 +1,6 @@
+streamlit
+basedados
+altair
+plotpy
+geopandas
+pandas
