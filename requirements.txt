@@ -1,5 +1,5 @@
 streamlit
-basedados
+basedosdados
 altair
 plotpy
 geopandas
